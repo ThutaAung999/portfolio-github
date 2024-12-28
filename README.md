@@ -137,10 +137,15 @@ For changing the screenshot:
             <div class="about__text">
                 <!-- Replace the below paragraph with info about yourself -->
                 <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos id
-                nostrum illo harum blanditiis, tenetur eum suscipit cupiditate
-                in vel, ex quam quidem quos mollitia labore aut sunt eius
-                ratione molestiae fuga veniam facere similique voluptate.
+                I am Htein Linn, a web developer based in Yangon, Myanmar. I have
+              experience in web development following technologies like HTML,
+              CSS, JavaScript, React, Express.js, MongoDB,Render, Parcel, and many more. I am
+              passionate about building fast-performing and user-friendly
+              websites. I am always eager to learn new technologies and improve
+              my skills. I am looking for opportunities to work on exciting
+              projects and collaborate with amazing people. If you are
+              interested in working with me, please don't hesitate to contact
+              me. I am always happy to hear from you.
                 </p>
                 <!-- Provide a link to your resume -->
                 <a href="#" class="btn">My Resume</a>
@@ -170,15 +175,10 @@ For changing the screenshot:
         <h2>Get in Touch</h2>
         <div class="contact__info">
           <p>
-            Are you looking for a fast-performing and user-friendly website to
-            represent your product or business? or looking for any kind of
-            consultation? or want to ask questions? or have some advice for me
-            or just want to say "Hi 👋" in any case feel free to Let me know. I
-            will do my best to respond back. 😊 The quickest way to reach out to
-            me is via an email.
+        here is my email
           </p>
           <!-- Replace the email with yours -->
-          <a href="mailto:you@example.com" class="btn">you@example.com</a>
+          <a href="mailto:exercise999123@gmail.com" class="btn">exercise999123@gmail.com</a>
         </div>
       </div>
 </section>
