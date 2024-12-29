@@ -166,10 +166,6 @@ For changing the screenshot:
 
 ### Contact Section
 
-- Modify the paragraph to your likings.
-- Replace the email with yours in the `href` anchor property and the text also.
-
-```html
 <section class="contact" id="contact">
       <div class="row">
         <h2>Get in Touch</h2>
